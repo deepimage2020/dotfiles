@@ -1,0 +1,13 @@
+# General
+\.DS_Store
+
+# git
+\.git
+\.gitignore
+\.gitmodules
+
+# dotfiles for STOW to ignore
+install.sh
+^/*.bk
+^/.*.bk
+

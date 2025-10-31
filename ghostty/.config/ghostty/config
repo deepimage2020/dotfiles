@@ -1,0 +1,12 @@
+# https://iterm2colorschemes.com/
+theme = Solarized Dark Higher Contrast
+#theme = Monokai Pro Spectrum
+
+background = 111111
+
+font-family = Meslo LGS Nerd Font Mono
+font-size=22
+
+fullscreen
+window-show-tab-bar=always
+
